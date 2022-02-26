@@ -23,8 +23,8 @@ and is currently under review.
 
 You can manually install the plugin using the following steps:
 
-1. Download the latest .zip of the plugin
-2. Copy the contents of the file into a `/wp-content/plugins/embargoed` folder
+1. Download the [latest .zip](https://github.com/pretzelhands/wp-embargoed/releases/download/latest/embargoed.zip) of the plugin
+2. Copy the contents of the file into a `/wp-content/plugins` folder
 3. Activate the "Embargoed" plugin in your admin dashboard or using WP CLI
 
 The plugin will start working immediately and block all visitors from Russia.
