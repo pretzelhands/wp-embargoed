@@ -1,6 +1,6 @@
 {
-    "name": "pretzelhands/wp-sanction-plugin",
-    "description": "A plugin to block all requests from Russia to any Rails app and display a pro-Ukraine message instead",
+    "name": "pretzelhands/wp-embargoed",
+    "description": "A plugin to block all requests from Russia to any WordPress site and display a pro-Ukraine message instead",
     "type": "wordpress-plugin",
     "license": "MIT",
     "authors": [
