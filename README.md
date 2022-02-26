@@ -31,8 +31,7 @@ The plugin will start working immediately and block all visitors from Russia.
 
 ### Other technologies
 
-* Rails: [embargoed](https://github.com/rameerez/embargoed)
-* Django: [django-embargoed](https://github.com/ronaldlangeveld/django-embargoed)
+This plugin is supported in a variety of different technology stacks. You can find an exhaustive list in [this repository](https://github.com/rameerez/embargoed-list)
 
 ### Collaborate
 
