@@ -23,7 +23,7 @@ and is currently under review.
 
 You can manually install the plugin using the following steps:
 
-1. Download the [latest .zip](https://github.com/pretzelhands/wp-embargoed/releases/download/latest/embargoed.zip) of the plugin
+1. Download the [latest .zip](https://github.com/pretzelhands/wp-embargoed/releases/download/1.0/embargoed.zip) of the plugin
 2. Copy the contents of the file into a `/wp-content/plugins` folder
 3. Activate the "Embargoed" plugin in your admin dashboard or using WP CLI
 
